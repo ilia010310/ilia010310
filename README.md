@@ -49,10 +49,10 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ### :fire: My Stats :
 
-<div align="top"> 
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ilia010310)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilia010310)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilia010310&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
