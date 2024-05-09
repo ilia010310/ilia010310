@@ -33,6 +33,22 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-![Static Badge](https://img.shields.io/badge/Python%20-%20black?style=for-the-badge&logo=python)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python%20-%20black?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/Django-lightgreen?style=for-the-badge&logo=django)
+![DRF](https://img.shields.io/badge/Django%20Rest%20Framework-red?style=for-the-badge&logo=drf)
+![Postrgrsql](https://img.shields.io/badge/PostgreSQL-yellow?style=for-the-badge&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-lightgrey?style=for-the-badge&logo=docker)
+![Celery](https://img.shields.io/badge/Celery-lightgrteen?style=for-the-badge&logo=celery)
+![Redis](https://img.shields.io/badge/redis-lightgrey?style=for-the-badge&logo=redis)
+![HTML](https://img.shields.io/badge/html-violet?style=for-the-badge&logo=html)
+![CSS](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap5-lightyellow?style=for-the-badge&logo=bootstrap)
+![Nginx](https://img.shields.io/badge/Nginx-lightgrey?style=for-the-badge&logo=nginx&labelColor=black)
+
+
+
+
+
+
+
+
