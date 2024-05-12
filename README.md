@@ -24,7 +24,7 @@
 Я Python Разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: Я работаю как Bach-end разработчик, имею опыт и навыки fill-stack разработки.
 
-- :seedling: Пишу документированный код.
+- :seedling: Фанат строгой типизации в Python.
 
 - :zap: В свободное время я люблю решать задачи и играть в шахматы.
 
