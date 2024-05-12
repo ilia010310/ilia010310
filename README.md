@@ -63,6 +63,16 @@
  Python, Django, PostgreSQL, Docker, Celery, Redis, Bootstrap5, HTML, CSS, Nginx
 </p>
 
+- Реализация <a href="https://github.com/ilia010310/first_project">проекта блога</a>  с возможностью регистрации, добавления, редактирования, удаления записей, а также системы like/dislike;<br>
+  Реализованa системa поиска, фильтрации по последним, а также по самым закомментированным постам;<br>
+  Создана кастомная авторизация пользователей, с возможностью использовать аккаунт GitHub и Google;<br>
+  Написан API для всех данных.<br>
+  <p>
+Стек:
+ Python, Django, Bootstrap5, HTML, CSS, Django Rest Framework
+</p>
+  
+
 
 
 
