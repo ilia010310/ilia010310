@@ -14,21 +14,21 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=ilia010310&style=flat-square&color=blue" alt=""/>
 <h1>
-  Hi, I'm Ilia
+  Привет, я Илья
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 
-### :man_technologist: About Me :
+### :man_technologist: Обо мне :
 
-I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+Я Python Разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- :telescope: Я работаю как Bach-end разработчик, имею опыт и навыки fill-stack разработки.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Пишу документированный код.
 
-- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+- :zap: В свободное время я люблю решать задачи и играть в шахматы.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Ilia-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ilia010310)
+- :mailbox:Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Ilia-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ilia010310)
 
 ---
 
@@ -47,11 +47,22 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ---
 
-### :fire: My Stats :
+### :fire: Моя статистика :
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ilia010310)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilia010310&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :man_technologist: Мои проекты :
+
+- Полнофункциональный <a href="https://github.com/ilia010310/lameli_2">онлайн-магазина</a> с возможностью заказа товаров и обработки заявок продавцу. Реализована обратная связь с покупателем, корзина, административная панель и карточки товаров. <a href="https://mrvidergold.ru">перейти на сайт</a>
+<p>
+Стек:
+ Python, Django, PostgreSQL, Docker, Celery, Redis, Bootstrap5, HTML, CSS, Nginx
+</p>
+
 
 
 
