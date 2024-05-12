@@ -77,7 +77,7 @@
 ### :man_technologist: Тестовые задания :
 
 - <a href="https://github.com/ilia010310/tanderplan">Парсер гос-закупок</a>  
-- <a href="https://github.com/ilia010310/Personal_financial_wallet">Персональный финансовый кошелек</a>  https://github.com/ilia010310/Teccod
+- <a href="https://github.com/ilia010310/Personal_financial_wallet">Персональный финансовый кошелек</a> 
 - <a href="https://github.com/ilia010310/Teccod">Тест проект для Teccod</a>
   
 
