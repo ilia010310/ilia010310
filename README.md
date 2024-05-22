@@ -71,6 +71,7 @@
 Стек:
  Python, Django, Bootstrap5, HTML, CSS, Django Rest Framework
 </p>
+- Разные <a href="https://github.com/ilia010310/all_tasks">файлы</a>, которыми я часто пользуюсь для написания кода, или просто интуресные задачи, которыми хочется поделиться с подписчиками.
 
 ---
 
