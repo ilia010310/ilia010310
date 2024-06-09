@@ -80,7 +80,7 @@
 - <a href="https://github.com/ilia010310/tanderplan">Парсер гос-закупок</a>  
 - <a href="https://github.com/ilia010310/Personal_financial_wallet">Персональный финансовый кошелек</a> 
 - <a href="https://github.com/ilia010310/Teccod">Тестовые задачи</a>
-- <a href="https://github.com/ilia010310/Teccod">Парсер бюллетеней итогов торгов с сайта биржи</a>  
+- <a href="https://github.com/ilia010310/parser_spimex">Парсер бюллетеней итогов торгов с сайта биржи</a>  
 
 
 
