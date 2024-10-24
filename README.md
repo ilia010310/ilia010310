@@ -24,9 +24,9 @@
 Я Python Разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: Я работаю как Bach-end разработчик, имею опыт и навыки fill-stack разработки.
 
-- :seedling: Фанат строгой типизации в Python.
+- :seedling: Сейчас живу в Аргентине.
 
-- :zap: В свободное время я люблю решать задачи и играть в шахматы.
+- :zap: В свободное время я люблю играть в шахматы.
 
 - :mailbox:Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Ilia-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ilia010310)
 
